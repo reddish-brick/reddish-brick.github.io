@@ -5,7 +5,7 @@ license: MIT
 licenselink: "https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE"
 description: "A fast, clean Hugo theme"
 homepage: "https://reddish-brick.github.io"
-defaultContentLanguage: "zh"
+defaultContentLanguage: "en"
 googleAnalytics: G-xxx
 paginate: 10
 params:
